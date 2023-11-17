@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    /* viewport units: vh (viewport height), vw (width), vmin (smallest btw vh & vw) */
+    height: 100vh;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
